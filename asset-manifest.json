@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Be-libra/harley-davidson/static/css/main.a83c310e.chunk.css",
-    "main.js": "/Be-libra/harley-davidson/static/js/main.6462fc49.chunk.js",
-    "main.js.map": "/Be-libra/harley-davidson/static/js/main.6462fc49.chunk.js.map",
-    "runtime-main.js": "/Be-libra/harley-davidson/static/js/runtime-main.ac2da917.js",
-    "runtime-main.js.map": "/Be-libra/harley-davidson/static/js/runtime-main.ac2da917.js.map",
-    "static/js/2.5930aa36.chunk.js": "/Be-libra/harley-davidson/static/js/2.5930aa36.chunk.js",
-    "static/js/2.5930aa36.chunk.js.map": "/Be-libra/harley-davidson/static/js/2.5930aa36.chunk.js.map",
-    "index.html": "/Be-libra/harley-davidson/index.html",
-    "precache-manifest.6a40e09e5ab0d40b2931aebdd8de804b.js": "/Be-libra/harley-davidson/precache-manifest.6a40e09e5ab0d40b2931aebdd8de804b.js",
-    "service-worker.js": "/Be-libra/harley-davidson/service-worker.js",
-    "static/css/main.a83c310e.chunk.css.map": "/Be-libra/harley-davidson/static/css/main.a83c310e.chunk.css.map",
-    "static/js/2.5930aa36.chunk.js.LICENSE.txt": "/Be-libra/harley-davidson/static/js/2.5930aa36.chunk.js.LICENSE.txt"
+    "main.css": "/harley-davidson/static/css/main.a83c310e.chunk.css",
+    "main.js": "/harley-davidson/static/js/main.6462fc49.chunk.js",
+    "main.js.map": "/harley-davidson/static/js/main.6462fc49.chunk.js.map",
+    "runtime-main.js": "/harley-davidson/static/js/runtime-main.db0d5f9d.js",
+    "runtime-main.js.map": "/harley-davidson/static/js/runtime-main.db0d5f9d.js.map",
+    "static/js/2.5930aa36.chunk.js": "/harley-davidson/static/js/2.5930aa36.chunk.js",
+    "static/js/2.5930aa36.chunk.js.map": "/harley-davidson/static/js/2.5930aa36.chunk.js.map",
+    "index.html": "/harley-davidson/index.html",
+    "precache-manifest.c54fe35242e00663ad7b5c01c74f11ba.js": "/harley-davidson/precache-manifest.c54fe35242e00663ad7b5c01c74f11ba.js",
+    "service-worker.js": "/harley-davidson/service-worker.js",
+    "static/css/main.a83c310e.chunk.css.map": "/harley-davidson/static/css/main.a83c310e.chunk.css.map",
+    "static/js/2.5930aa36.chunk.js.LICENSE.txt": "/harley-davidson/static/js/2.5930aa36.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ac2da917.js",
+    "static/js/runtime-main.db0d5f9d.js",
     "static/js/2.5930aa36.chunk.js",
     "static/css/main.a83c310e.chunk.css",
     "static/js/main.6462fc49.chunk.js"
