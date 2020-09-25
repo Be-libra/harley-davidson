@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "64812cf2d401cc7d58f8e7e6eaec331d",
+    "revision": "e2f943d935c344cd5b13a902c16e1dda",
     "url": "/harley-davidson/index.html"
   },
   {
-    "revision": "6dd87d9e2ae295796016",
+    "revision": "230950a138d860449f58",
     "url": "/harley-davidson/static/css/main.a83c310e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/harley-davidson/static/js/2.5930aa36.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6dd87d9e2ae295796016",
-    "url": "/harley-davidson/static/js/main.6462fc49.chunk.js"
+    "revision": "230950a138d860449f58",
+    "url": "/harley-davidson/static/js/main.b80b9b38.chunk.js"
   },
   {
     "revision": "932798e5200fc71e8cc3",

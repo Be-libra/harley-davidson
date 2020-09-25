@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/harley-davidson/precache-manifest.c54fe35242e00663ad7b5c01c74f11ba.js"
+  "/harley-davidson/precache-manifest.8219d173e91e97b1c2edaab0b29d0a04.js"
 );
 
 self.addEventListener('message', (event) => {
